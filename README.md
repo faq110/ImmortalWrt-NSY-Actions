@@ -33,7 +33,7 @@
 
 
 
- **赞赏码可以喝个咖啡吗**
+ ##**赞赏码可以喝个咖啡吗**
 
 <img width="400" height="400" alt="无标题" src="https://github.com/faq110/ImmortalWrt-NSY-Actions/blob/main/images/zans.png" />
 
