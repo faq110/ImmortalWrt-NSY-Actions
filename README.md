@@ -31,6 +31,14 @@
 
 - **本固件禁止用于任何商业用途，请务必严格遵守国家互联网使用相关法律规定！**
 
+
+                 赞赏码可以喝个咖啡吗
+
+<img width="400" height="400" alt="无标题" src="https://github.com/faq110/ImmortalWrt-NSY-Actions/blob/main/images/zans.png" />
+
+
+
+
 ## 鸣谢 [![](https://img.shields.io/badge/-跪谢各大佬-FFFFFF.svg)](#鸣谢-)
 
 | [ImmortalWrt](https://github.com/immortalwrt) | [coolsnowwolf](https://github.com/coolsnowwolf) | [P3TERX](https://github.com/P3TERX) | [Flippy](https://github.com/unifreq) | [Haiibo](https://github.com/haiibo) |
