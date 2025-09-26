@@ -6,7 +6,7 @@ on:
     - cron: 0 20 * * *
 
 env:
-  REPO_URL: https://github.com/faq110/immortalwrt-rk356x
+  REPO_URL: https://github.com/xiaomeng9597/ImmortalWrt-NSY
   REPO_BRANCH: main
   CONFIG_FILE: configs/g18-pro-docker.config
   DIY_SCRIPT: diy-mini.sh
